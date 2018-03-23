@@ -26,3 +26,6 @@ the software which differ from the default configuration of the software that ar
 by the author of this respository are free for use. Refer to the licenses of the software
 which the author of this repository used for licensing information regarding the code 
 shared from that software.
+(Real talk, I'm referring to PlanetCNC. Some of their probing and homing scripts are modified
+to work with Lenny. The Settings file which includes all the custom keymappings also. So
+whatever part of it they wrote is their property, whatever part of it that I wrote is open.)
