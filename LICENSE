@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Some software and configuration files for proprietary software used in this project are 
+not open source and thereby are not included in this license, though customizations to
+the software which differ from the default configuration of the software that are written
+by the author of this respository are free for use. Refer to the licenses of the software
+which the author of this repository used for licensing information regarding the code 
+shared from that software.
